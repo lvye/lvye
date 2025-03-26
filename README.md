@@ -17,4 +17,4 @@ AI Utilizers 🤖, Film Enthusiast 🎬, Running Man 🏃, Space Adventurer 🧑
 
 我跑的这 7 年:
 
-<a href="https://running.hanfeng.net"><img width="400px" src="./images/running.svg"/></a>
+<a href="https://running.hanfeng.net"><img width="100%" src="./images/running.svg"/></a>
