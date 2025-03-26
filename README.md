@@ -5,18 +5,13 @@ AI 利用派🤖、电影爱好者🎬、跑步达人🏃、太空探险家🧑�
 ---
 AI Utilizers 🤖, Film Enthusiast 🎬, Running Man 🏃, Space Adventurer 🧑‍🚀, One Piece Fan ☠️, Gourmet Hunter 🍴, Travel Explorer 🌍
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/fu_hanfeng" target="blank" style="margin-right: 5px;">
-    <img align="center" src="./images/x.svg" alt="fu_hanfeng" height="30" width="30" />
-  </a>
-  <a href="https://mastodon.social/@hanfeng" target="blank" style="margin-right: 5px;">
-    <img align="center" src="./images/mastodon.svg" alt="hanfeng" height="30" width="30" />
-  </a>
-  <a href="https://t.me/hanfeng" target="blank">
-    <img align="center" src="./images/telegram.svg" alt="hanfeng" height="30" width="30" />
-  </a>
-</p>
+### 🔗 Connect with me:
+
+[<img src="./images/x.svg" width="30" height="30">](https://x.com/fu_hanfeng)
+[<img src="./images/mastodon.svg" width="30" height="30">](https://mastodon.social/@hanfeng)
+[<img src="./images/telegram.svg" width="30" height="30">](https://t.me/hanfeng)
+
+
 
 ---
 
