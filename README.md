@@ -7,10 +7,15 @@ AI Utilizers 🤖, Film Enthusiast 🎬, Running Man 🏃, Space Adventurer 🧑
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fu_hanfeng" target="blank"><img align="center" src="./images/twitter.svg" alt="fu_hanfeng" height="30" width="40" /></a>
-<a href="https://mastodon.social/@hanfeng" target="blank"><img align="center" src="./images/mastodon.svg" alt="hanfeng" height="30" width="40" /></a>
-<a href="https://t.me/hanfeng" target="blank"><img align="center" src="./images/telegram.svg" alt="hanfeng" height="30" width="40" /></a>
-
+  <a href="https://x.com/fu_hanfeng" target="blank" style="margin-right: 5px;">
+    <img align="center" src="./images/x.svg" alt="fu_hanfeng" height="30" width="30" />
+  </a>
+  <a href="https://mastodon.social/@hanfeng" target="blank" style="margin-right: 5px;">
+    <img align="center" src="./images/mastodon.svg" alt="hanfeng" height="30" width="30" />
+  </a>
+  <a href="https://t.me/hanfeng" target="blank">
+    <img align="center" src="./images/telegram.svg" alt="hanfeng" height="30" width="30" />
+  </a>
 </p>
 
 ---
