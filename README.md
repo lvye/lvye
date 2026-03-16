@@ -23,39 +23,9 @@ Before moving deeper into UI infrastructure, I spent years building backend syst
 - Scalable services and automation-oriented tooling
 - Product-minded engineering with an emphasis on reliability
 
----
-
-### Tech Stack
-
-**UI / Platform:**  
-OpenHarmony, ArkUI, WaterFlow, component engineering, layout systems
-
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend:**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white)
-
-**AI / Automation:**  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat&logo=anthropic&logoColor=white)
-
-**DevOps:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-
----
-
 ### Featured Work
 
-- [OpenHarmony / ArkUI related work and WaterFlow maintenance](https://gitcode.com/fuhanfeng)
+- [ArkUI](https://gitcode.com/fuhanfeng): maintaining core UI capabilities with a focus on WaterFlow and component infrastructure
 - [Atom Archetype](https://github.com/Archetom/Atom-Archetype) – A DDD-style Java project template for scalable, maintainable systems
 - [Telegram Hub](https://github.com/lvye/telegram-hub) – RSS-to-Telegram automation powered by Cloudflare Workers
 
