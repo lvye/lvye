@@ -55,7 +55,7 @@ OpenHarmony, ArkUI, WaterFlow, component engineering, layout systems
 
 ### Featured Work
 
-- OpenHarmony / ArkUI related work and WaterFlow maintenance
+- [OpenHarmony / ArkUI related work and WaterFlow maintenance](https://gitcode.com/fuhanfeng)
 - [Atom Archetype](https://github.com/Archetom/Atom-Archetype) – A DDD-style Java project template for scalable, maintainable systems
 - [Telegram Hub](https://github.com/lvye/telegram-hub) – RSS-to-Telegram automation powered by Cloudflare Workers
 
@@ -67,8 +67,6 @@ Long-distance running has been part of my life for years.
 It influences how I build software: consistency, endurance, and steady iteration.
 
 Check out my running logs 👉 [running.hanfeng.net](https://running.hanfeng.net)
-
-<a href="https://running.hanfeng.net"><img width="100%" src="./images/running.svg"/></a>
 
 ---
 
