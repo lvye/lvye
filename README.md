@@ -8,6 +8,16 @@ Before moving deeper into UI infrastructure, I spent years building backend syst
 
 ---
 
+### 关于我
+
+你好，我是韩峰，一名关注复杂交互、系统可靠性与工程效率的软件工程师。目前主要参与 OpenHarmony ArkUI，维护 WaterFlow 和相关懒加载布局能力，工作内容涵盖布局算法、滚动体验、性能优化以及组件稳定性。
+
+在深入 UI 基础设施之前，我长期从事后端系统与自动化工具开发，使用过 Java、Go、Kotlin、PHP 和 JavaScript。这段经历让我在面对复杂组件时，仍然习惯从边界、状态、可维护性和真实使用体验出发解决问题。
+
+工作之外，我喜欢长跑、阅读、电影，也会持续折腾有趣的工具。我在 [hanfeng.net](https://hanfeng.net/) 整理散落在 GitHub、X、豆瓣和 Mastodon 上的想法与记录。
+
+---
+
 ### Current Focus
 
 - Maintaining and evolving ArkUI WaterFlow
